@@ -1,0 +1,70 @@
+body {
+    background-color: black;
+    font-family: Lobster;
+}
+
+header {
+    border-radius: 5px;
+    width: 90%;
+    margin: 5% auto auto auto;
+}
+
+#face {
+    display: inline-block;
+    width: 20%;
+    height: max-content;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px 1px rgba(0, 0, 0, 0.452);
+    margin: 1% auto 1% 2%;
+}
+
+#cover{
+    float: right;
+    margin-top: 5%;
+    width: 70%;
+}
+
+#name {
+    text-align: center;
+    font-size: 4vw;
+    color: rgb(0, 0, 0);
+}
+
+#menu {
+    text-align: center;
+    margin-top: 7%;
+    font-size: 2vw;
+    color: rgb(0, 0, 131);
+}
+
+#home {
+    border-radius: 5px;
+    width: 80%;
+    margin: 5% auto auto auto;
+    padding-left: 3%;
+}
+
+#resume{
+    width: 65%;
+    display: inline-block;
+    text-align: justify;
+}
+
+#profile {
+    display: inline-block;
+    width: 21%;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px 1px rgba(0, 0, 0, 0.452);
+    margin-left: 13%;
+    margin-bottom: 1%;
+}
+
+footer {
+    background-color: rgb(255, 255, 255);
+    margin-bottom: 0px;
+    margin-top: 10%;
+    border-top: 5px solid rgb(6, 1, 92);
+    text-align: center;
+    padding-bottom: 1%;
+    font-size: 2vw;
+}

@@ -1,0 +1,31 @@
+.blueBorder {
+    background-color: rgb(255, 255, 255);
+    border: 5px solid;
+    border-radius: 10px;
+    border-color: rgb(6, 1, 92);
+    border-color: linear-gradient(90deg, rgb(7, 0, 138) 0%, rgb(0, 0, 255) 50%, rgb(74, 115, 248) 100%);
+}
+
+.sections {
+    text-align: justify;
+    border-radius: 10px;
+    width: 80%;
+    margin: 5% auto auto auto;
+    padding-left: 3%;
+    padding-right: 3%;
+    font-size: 2vw;
+    color: rgb(84, 84, 85);
+}
+
+.title {
+    color: rgb(0, 0, 0);
+}
+
+.subtitle {
+    color: rgb(0, 5, 70);
+}
+
+.list {
+    display: inline-block;
+    margin: 0px auto 2% auto;
+}

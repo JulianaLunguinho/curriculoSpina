@@ -1,0 +1,33 @@
+#menu li {
+    display: inline;
+    margin-right: 4%;
+    list-style: none;
+}
+
+#menu li :visited {
+    color: rgb(0, 0, 131);
+}
+
+#contacts p a {
+    color: rgb(0, 0, 0);
+}
+
+#contacts p :visited {
+    color: rgb(0, 0, 0);
+}
+
+#menuFooter li {
+    display: inline;
+    list-style: none;
+    margin-right: 3%;
+    color: rgb(0, 0, 131);
+}
+
+#menuFooter li :visited {
+    color: rgb(0, 0, 131);
+}
+
+a:hover {
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 10px;
+}
